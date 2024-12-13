@@ -6,5 +6,7 @@ Must-have libraries:
 * Pandas
 * Matplotlib.pyplot
 * Seaborn
+* os
+* sys
 
 Some valuable insights I got:
