@@ -8,5 +8,3 @@ Must-have libraries:
 * Seaborn
 * os
 * sys
-
-Some valuable insights I got:
